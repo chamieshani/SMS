@@ -1,0 +1,12 @@
+C:\Users\ASUS\Downloads\projects\SMS\ClassLibrary.Common\bin\Debug\net6.0\ClassLibrary.Common.deps.json
+C:\Users\ASUS\Downloads\projects\SMS\ClassLibrary.Common\bin\Debug\net6.0\ClassLibrary.Common.dll
+C:\Users\ASUS\Downloads\projects\SMS\ClassLibrary.Common\bin\Debug\net6.0\ClassLibrary.Common.pdb
+C:\Users\ASUS\Downloads\projects\SMS\ClassLibrary.Common\obj\Debug\net6.0\ClassLibrary.Common.csproj.AssemblyReference.cache
+C:\Users\ASUS\Downloads\projects\SMS\ClassLibrary.Common\obj\Debug\net6.0\ClassLibrary.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Downloads\projects\SMS\ClassLibrary.Common\obj\Debug\net6.0\ClassLibrary.Common.AssemblyInfoInputs.cache
+C:\Users\ASUS\Downloads\projects\SMS\ClassLibrary.Common\obj\Debug\net6.0\ClassLibrary.Common.AssemblyInfo.cs
+C:\Users\ASUS\Downloads\projects\SMS\ClassLibrary.Common\obj\Debug\net6.0\ClassLibrary.Common.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Downloads\projects\SMS\ClassLibrary.Common\obj\Debug\net6.0\ClassLibrary.Common.dll
+C:\Users\ASUS\Downloads\projects\SMS\ClassLibrary.Common\obj\Debug\net6.0\refint\ClassLibrary.Common.dll
+C:\Users\ASUS\Downloads\projects\SMS\ClassLibrary.Common\obj\Debug\net6.0\ClassLibrary.Common.pdb
+C:\Users\ASUS\Downloads\projects\SMS\ClassLibrary.Common\obj\Debug\net6.0\ref\ClassLibrary.Common.dll

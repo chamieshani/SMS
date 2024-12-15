@@ -1,0 +1,11 @@
+﻿
+.sms-outer{
+padding:10px;
+border:1px solid #000000;
+}
+.sms-inner {
+    padding: 10px;
+}
+.sms-innerLeft{
+    float:left;
+}

@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "ClassLibrary.VO": {
+      "commandName": "Project",
+      "workingDirectory": "C:\\Users\\ASUS\\Downloads\\projects\\SMS\\consoletest"
+    },
+    "consoletest": {
+      "commandName": "Project",
+      "workingDirectory": "C:\\Users\\ASUS\\Downloads\\projects\\SMS\\consoletest"
+    }
+  }
+}

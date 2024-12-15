@@ -1,0 +1,15 @@
+C:\Users\ASUS\Downloads\projects\SMS\ClassLibrary.VO\bin\Debug\net6.0\ClassLibrary.VO.deps.json
+C:\Users\ASUS\Downloads\projects\SMS\ClassLibrary.VO\bin\Debug\net6.0\ClassLibrary.VO.dll
+C:\Users\ASUS\Downloads\projects\SMS\ClassLibrary.VO\bin\Debug\net6.0\ClassLibrary.VO.pdb
+C:\Users\ASUS\Downloads\projects\SMS\ClassLibrary.VO\bin\Debug\net6.0\ClassLibrary.Interfaces.dll
+C:\Users\ASUS\Downloads\projects\SMS\ClassLibrary.VO\bin\Debug\net6.0\ClassLibrary.Interfaces.pdb
+C:\Users\ASUS\Downloads\projects\SMS\ClassLibrary.VO\obj\Debug\net6.0\ClassLibrary.VO.csproj.AssemblyReference.cache
+C:\Users\ASUS\Downloads\projects\SMS\ClassLibrary.VO\obj\Debug\net6.0\ClassLibrary.VO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Downloads\projects\SMS\ClassLibrary.VO\obj\Debug\net6.0\ClassLibrary.VO.AssemblyInfoInputs.cache
+C:\Users\ASUS\Downloads\projects\SMS\ClassLibrary.VO\obj\Debug\net6.0\ClassLibrary.VO.AssemblyInfo.cs
+C:\Users\ASUS\Downloads\projects\SMS\ClassLibrary.VO\obj\Debug\net6.0\ClassLibrary.VO.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Downloads\projects\SMS\ClassLibrary.VO\obj\Debug\net6.0\ClassLibrary.VO.csproj.CopyComplete
+C:\Users\ASUS\Downloads\projects\SMS\ClassLibrary.VO\obj\Debug\net6.0\ClassLibrary.VO.dll
+C:\Users\ASUS\Downloads\projects\SMS\ClassLibrary.VO\obj\Debug\net6.0\refint\ClassLibrary.VO.dll
+C:\Users\ASUS\Downloads\projects\SMS\ClassLibrary.VO\obj\Debug\net6.0\ClassLibrary.VO.pdb
+C:\Users\ASUS\Downloads\projects\SMS\ClassLibrary.VO\obj\Debug\net6.0\ref\ClassLibrary.VO.dll

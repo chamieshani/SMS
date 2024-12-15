@@ -1,0 +1,10 @@
+C:\Users\ASUS\Downloads\projects\SMS\ClassLibrary.SMS\bin\Debug\netcoreapp3.1\ClassLibrary.SMS.deps.json
+C:\Users\ASUS\Downloads\projects\SMS\ClassLibrary.SMS\bin\Debug\netcoreapp3.1\ClassLibrary.SMS.dll
+C:\Users\ASUS\Downloads\projects\SMS\ClassLibrary.SMS\bin\Debug\netcoreapp3.1\ClassLibrary.SMS.pdb
+C:\Users\ASUS\Downloads\projects\SMS\ClassLibrary.SMS\obj\Debug\netcoreapp3.1\ClassLibrary.SMS.csproj.AssemblyReference.cache
+C:\Users\ASUS\Downloads\projects\SMS\ClassLibrary.SMS\obj\Debug\netcoreapp3.1\ClassLibrary.SMS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Downloads\projects\SMS\ClassLibrary.SMS\obj\Debug\netcoreapp3.1\ClassLibrary.SMS.AssemblyInfoInputs.cache
+C:\Users\ASUS\Downloads\projects\SMS\ClassLibrary.SMS\obj\Debug\netcoreapp3.1\ClassLibrary.SMS.AssemblyInfo.cs
+C:\Users\ASUS\Downloads\projects\SMS\ClassLibrary.SMS\obj\Debug\netcoreapp3.1\ClassLibrary.SMS.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Downloads\projects\SMS\ClassLibrary.SMS\obj\Debug\netcoreapp3.1\ClassLibrary.SMS.dll
+C:\Users\ASUS\Downloads\projects\SMS\ClassLibrary.SMS\obj\Debug\netcoreapp3.1\ClassLibrary.SMS.pdb

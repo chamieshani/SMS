@@ -1,0 +1,8 @@
+C:\Users\ASUS\Downloads\projects\SMS\consoletest\bin\Debug\consoletest.exe.config
+C:\Users\ASUS\Downloads\projects\SMS\consoletest\bin\Debug\consoletest.exe
+C:\Users\ASUS\Downloads\projects\SMS\consoletest\bin\Debug\consoletest.pdb
+C:\Users\ASUS\Downloads\projects\SMS\consoletest\obj\Debug\consoletest.csproj.AssemblyReference.cache
+C:\Users\ASUS\Downloads\projects\SMS\consoletest\obj\Debug\consoletest.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\Downloads\projects\SMS\consoletest\obj\Debug\consoletest.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Downloads\projects\SMS\consoletest\obj\Debug\consoletest.exe
+C:\Users\ASUS\Downloads\projects\SMS\consoletest\obj\Debug\consoletest.pdb

@@ -1,0 +1,12 @@
+C:\Users\ASUS\Downloads\projects\SMS\ClassLibrary.Interfaces\bin\Debug\net6.0\ClassLibrary.Interfaces.deps.json
+C:\Users\ASUS\Downloads\projects\SMS\ClassLibrary.Interfaces\bin\Debug\net6.0\ClassLibrary.Interfaces.dll
+C:\Users\ASUS\Downloads\projects\SMS\ClassLibrary.Interfaces\bin\Debug\net6.0\ClassLibrary.Interfaces.pdb
+C:\Users\ASUS\Downloads\projects\SMS\ClassLibrary.Interfaces\obj\Debug\net6.0\ClassLibrary.Interfaces.csproj.AssemblyReference.cache
+C:\Users\ASUS\Downloads\projects\SMS\ClassLibrary.Interfaces\obj\Debug\net6.0\ClassLibrary.Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Downloads\projects\SMS\ClassLibrary.Interfaces\obj\Debug\net6.0\ClassLibrary.Interfaces.AssemblyInfoInputs.cache
+C:\Users\ASUS\Downloads\projects\SMS\ClassLibrary.Interfaces\obj\Debug\net6.0\ClassLibrary.Interfaces.AssemblyInfo.cs
+C:\Users\ASUS\Downloads\projects\SMS\ClassLibrary.Interfaces\obj\Debug\net6.0\ClassLibrary.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Downloads\projects\SMS\ClassLibrary.Interfaces\obj\Debug\net6.0\ClassLibrary.Interfaces.dll
+C:\Users\ASUS\Downloads\projects\SMS\ClassLibrary.Interfaces\obj\Debug\net6.0\refint\ClassLibrary.Interfaces.dll
+C:\Users\ASUS\Downloads\projects\SMS\ClassLibrary.Interfaces\obj\Debug\net6.0\ClassLibrary.Interfaces.pdb
+C:\Users\ASUS\Downloads\projects\SMS\ClassLibrary.Interfaces\obj\Debug\net6.0\ref\ClassLibrary.Interfaces.dll

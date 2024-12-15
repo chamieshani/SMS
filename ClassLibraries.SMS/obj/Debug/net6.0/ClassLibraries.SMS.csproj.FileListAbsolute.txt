@@ -1,0 +1,14 @@
+C:\Users\ASUS\Downloads\projects\SMS\ClassLibraries.SMS\obj\Debug\net6.0\ClassLibraries.SMS.csproj.AssemblyReference.cache
+C:\Users\ASUS\Downloads\projects\SMS\ClassLibraries.SMS\obj\Debug\net6.0\ClassLibraries.SMS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Downloads\projects\SMS\ClassLibraries.SMS\obj\Debug\net6.0\ClassLibraries.SMS.AssemblyInfoInputs.cache
+C:\Users\ASUS\Downloads\projects\SMS\ClassLibraries.SMS\obj\Debug\net6.0\ClassLibraries.SMS.AssemblyInfo.cs
+C:\Users\ASUS\Downloads\projects\SMS\ClassLibraries.SMS\obj\Debug\net6.0\ClassLibraries.SMS.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Downloads\projects\SMS\ClassLibraries.SMS\obj\Debug\net6.0\Interop.Accessibility.dll
+C:\Users\ASUS\Downloads\projects\SMS\ClassLibraries.SMS\obj\Debug\net6.0\ClassLibraries.SMS.csproj.ResolveComReference.cache
+C:\Users\ASUS\Downloads\projects\SMS\ClassLibraries.SMS\bin\Debug\net6.0\ClassLibraries.SMS.deps.json
+C:\Users\ASUS\Downloads\projects\SMS\ClassLibraries.SMS\bin\Debug\net6.0\ClassLibraries.SMS.dll
+C:\Users\ASUS\Downloads\projects\SMS\ClassLibraries.SMS\bin\Debug\net6.0\ClassLibraries.SMS.pdb
+C:\Users\ASUS\Downloads\projects\SMS\ClassLibraries.SMS\obj\Debug\net6.0\ClassLibraries.SMS.dll
+C:\Users\ASUS\Downloads\projects\SMS\ClassLibraries.SMS\obj\Debug\net6.0\refint\ClassLibraries.SMS.dll
+C:\Users\ASUS\Downloads\projects\SMS\ClassLibraries.SMS\obj\Debug\net6.0\ClassLibraries.SMS.pdb
+C:\Users\ASUS\Downloads\projects\SMS\ClassLibraries.SMS\obj\Debug\net6.0\ref\ClassLibraries.SMS.dll
